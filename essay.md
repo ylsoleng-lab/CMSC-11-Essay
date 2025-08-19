@@ -1,13 +1,9 @@
 # CMSC 11 Essay by Yeona Ellice L. Soleng  
 <div align="justify">
-If you asked me a few years ago what I wanted to do, I would have immediately answered engineering. I’ve always been drawn to it, from the fundamentals down to its nitty-gritty parts. But somewhere along the way, as I kept leading, building, and researching, Computer Science kept finding its way into the picture, until I realized that it wasn’t just an extra tool, it was the direction I wanted to move toward.  
-
-
-
-
+If you asked me a few years ago what I wanted to do, I would have immediately answered engineering. I’ve always been drawn to it, from the fundamentals down to its nitty-gritty parts. But somewhere along the way, as I kept leading, building, and researching, Computer Science kept finding its way into the picture, until I realized that it wasn’t just an extra tool, it was the direction I wanted to move toward. 
 
 <p>
-When I became President of my school’s Engineering Club, I saw it as a chance to bring engineering closer to my classmates. The first thing I worked on was requesting a 3D printer. It took months of asking and pushing before we finally got it, but it was worth it. With it, we taught students how to use SOLIDWORKS, and from there they started designing and printing their own creations. It was fulfilling to see their imaginations come to life, and even more so when they started considering engineering as their own path.  
+    When I became President of my school’s Engineering Club, I saw it as a chance to bring engineering closer to my classmates. The first thing I worked on was requesting a 3D printer. It took months of asking and pushing before we finally got it, but it was worth it. With it, we taught students how to use SOLIDWORKS, and from there they started designing and printing their own creations. It was fulfilling to see their imaginations come to life, and even more so when they started considering engineering as their own path.  
 </p>
 
 I also wanted to expand our impact outside school, so I organized an outreach program for elementary school kids from financially challenged communities. We introduced them to the basics of engineering and held activities like popsicle stick tower experiments and software bridge building. It was fun, messy, and a little chaotic, but at the end of the day, those kids had huge smiles on their faces. Some of them even told us they wanted to apply to my alma mater, Pisay. Seeing them realize they could belong in STEM, no matter their background, is something I’ll never forget.  
