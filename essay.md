@@ -2,6 +2,10 @@
 <div align="justify">
 If you asked me a few years ago what I wanted to do, I would have immediately answered engineering. I’ve always been drawn to it, from the fundamentals down to its nitty-gritty parts. But somewhere along the way, as I kept leading, building, and researching, Computer Science kept finding its way into the picture, until I realized that it wasn’t just an extra tool, it was the direction I wanted to move toward.  
 
+
+
+
+
 <p>
 When I became President of my school’s Engineering Club, I saw it as a chance to bring engineering closer to my classmates. The first thing I worked on was requesting a 3D printer. It took months of asking and pushing before we finally got it, but it was worth it. With it, we taught students how to use SOLIDWORKS, and from there they started designing and printing their own creations. It was fulfilling to see their imaginations come to life, and even more so when they started considering engineering as their own path.  
 </p>
